@@ -34,6 +34,5 @@ int main()
 	{
 		printf("%d x %dk VND \n", to[i], price[i]);
 	}
-
 	return 0;
 }
